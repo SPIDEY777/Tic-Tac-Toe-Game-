@@ -2,15 +2,7 @@
 
 A simple and interactive **Tic Tac Toe** (X and O) game built using **Java** and **Android Studio**. The app allows two players to play turn by turn, checks for a winner or draw, and displays results in a user-friendly way.
 
----
-
-## 📱 Screenshots
-
-| Game Start | Player X Wins | Draw |
-|------------|----------------|------|
-| *(Add screenshots or gifs here later)* |
-
----
+ ---
 
 ## 🧠 Features
 
